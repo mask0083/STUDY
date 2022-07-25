@@ -1,0 +1,13 @@
+test-name1
+test-name2
+afterEach...
+clearStore
+ f_mem1.name =  test-name1
+afterEach...
+clearStore
+result =  true
+member.getId() =  5
+member.getName() =  TEST_NAME
+4member.=  hello.hellospring.domain.Member@39fcbef6
+afterEach...
+clearStore

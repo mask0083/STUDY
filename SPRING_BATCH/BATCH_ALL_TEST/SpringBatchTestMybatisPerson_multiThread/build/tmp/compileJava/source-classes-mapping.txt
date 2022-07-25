@@ -1,0 +1,16 @@
+org/codelab/batch/Application.java
+ org.codelab.batch.Application
+org/codelab/batch/job/partitioner/RangePartitioner.java
+ org.codelab.batch.job.partitioner.RangePartitioner
+org/codelab/batch/job/partitioner/PartitionerWriter.java
+ org.codelab.batch.job.partitioner.PartitionerWriter
+org/codelab/batch/mapper/PersonMapper.java
+ org.codelab.batch.mapper.PersonMapper
+org/codelab/batch/job/partitioner/PartitionerProcessor.java
+ org.codelab.batch.job.partitioner.PartitionerProcessor
+org/codelab/batch/common/Const.java
+ org.codelab.batch.common.Const
+org/codelab/batch/dto/Person.java
+ org.codelab.batch.dto.Person
+org/codelab/batch/job/partitioner/PartitionerJobConfig.java
+ org.codelab.batch.job.partitioner.PartitionerJobConfig

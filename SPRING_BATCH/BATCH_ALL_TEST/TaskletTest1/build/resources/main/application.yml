@@ -1,0 +1,34 @@
+spring:
+  profiles:
+    active: notebook
+mybatis:
+    type-aliases-package: org.codelab.batch.dto
+    mapper-locations: classpath:mapper/*.xml
+    configuration:
+        map-underscore-to-camel-case: true
+        default-fetch-size: 100
+        default-statement-timeout: 30
+---
+spring:
+   profiles: notebook
+   datasource:
+      database: mysql
+      url: jdbc:mysql://localhost:3306/mybatis_db?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Seoul&useSSL=false
+      username: mybatis
+      password: 3800ksam!
+      driver-class-name: com.mysql.jdbc.Driver
+logging:
+   level:
+      org.codelab.batch: INFO
+---
+spring:
+   profiles: docker
+   datasource:
+      database: mysql
+      url: jdbc:mysql://localhost:3306/mybatis_db?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Seoul&useSSL=false
+      username: mybatis
+      password: 3800ksam!
+      driver-class-name: com.mysql.jdbc.Driver
+logging:
+   level:
+      org.codelab.batch: INFO

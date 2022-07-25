@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="afac7c75-a64b-4019-b1d6-2333ea957127" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../BATCH_ALL_TEST/TaskletTest2" beforeDir="false" afterPath="$PROJECT_DIR$/../BATCH_ALL_TEST/TaskletTest2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batchTestJPAMysql/src/main/java/com/example/batchtestmysql/batch/TaskletJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/../batchTestJPAMysql/src/main/java/com/example/batchtestmysql/batch/TaskletJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batchTestJPAMysql/src/main/java/com/example/batchtestmysql/domain/Dept.java" beforeDir="false" afterPath="$PROJECT_DIR$/../batchTestJPAMysql/src/main/java/com/example/batchtestmysql/domain/Dept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-mybatis/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/.idea/hello-spring_lee.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/._hello-spring" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/._.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/._.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/._.idea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/._HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/._build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/._build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/._gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/._gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/._gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/._settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/._src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/._7.4.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/._buildOutputCleanup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/._file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/._vcs-1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/._workspace-id.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/._workspace-id.txt.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/._checksums" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/._dependencies-accessors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/._executionHistory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/._fileChanges" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/._fileHashes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/._gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/._vcsMetadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/checksums/._checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/checksums/._md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/checksums/._sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/dependencies-accessors/._dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/dependencies-accessors/._gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/executionHistory/._executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/executionHistory/._executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/fileChanges/._last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/fileHashes/._fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/fileHashes/._fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/fileHashes/._resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/buildOutputCleanup/._buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/buildOutputCleanup/._cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/buildOutputCleanup/._outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/vcs-1/._gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.idea/._.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.idea/._compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.idea/._gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.idea/._jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.idea/._misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.idea/._workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/._bootWarMainClassName" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/._classes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/._generated" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/._libs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/._reports" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/._resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/._test-results" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/._tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/classes/._java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/classes/java/._test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/classes/java/test/._hello" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/classes/java/test/hello/._hellospring" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/classes/java/test/hello/hellospring/._HelloSpringApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/classes/java/test/hello/hellospring/._repository" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/classes/java/test/hello/hellospring/._service" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/classes/java/test/hello/hellospring/repository/._MemoryMemberRepositoryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/classes/java/test/hello/hellospring/service/._MemberServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/generated/._sources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/generated/sources/._annotationProcessor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/generated/sources/._headers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/generated/sources/annotationProcessor/._java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/generated/sources/annotationProcessor/java/._test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/generated/sources/headers/._java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/generated/sources/headers/java/._test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/libs/._hello-spring-0.0.1-SNAPSHOT-plain.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/libs/._hello-spring-0.0.1-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/reports/._tests" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/reports/tests/._test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/reports/tests/test/._classes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/reports/tests/test/._css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/reports/tests/test/._index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/reports/tests/test/._js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/reports/tests/test/._packages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/reports/tests/test/classes/._hello.hellospring.repository.MemoryMemberRepositoryTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/reports/tests/test/css/._base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/reports/tests/test/css/._style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/reports/tests/test/js/._report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/reports/tests/test/packages/._hello.hellospring.repository.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/test-results/._test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/test-results/test/._TEST-hello.hellospring.repository.MemoryMemberRepositoryTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/test-results/test/._binary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/test-results/test/binary/._output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/test-results/test/binary/._output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/test-results/test/binary/._results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/tmp/._bootWar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/tmp/._compileJava" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/tmp/._compileTestJava" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/tmp/._test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/tmp/._war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/tmp/bootWar/._MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/tmp/compileTestJava/._previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/tmp/war/._MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/gradle/._wrapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/gradle/wrapper/._gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/gradle/wrapper/._gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/._main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/._test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/._java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/._resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/._hello" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/._hellospring" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/._HelloSpringApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/._MyBatisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/._ServletInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/._SpringConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/._controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/._domain" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/._repository" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/._service" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/controller/._HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/controller/._HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/controller/._MemberController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/controller/._MemberForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/domain/._Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/repository/._JdbcTemplateMemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/repository/._MemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/repository/._MemoryMemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/repository/._MyBatisMemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/service/._MemberService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/._application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/._mapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/._static" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/._templates" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/mapper/._Mapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/static/._hello-static.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/static/._index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/templates/._hello-template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/templates/._hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/templates/._home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/templates/._members" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/templates/members/._createMemberForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/templates/members/._memberList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/test/._java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/test/java/._hello" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/test/java/hello/._hellospring" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/test/java/hello/hellospring/._HelloSpringApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/test/java/hello/hellospring/._repository" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/test/java/hello/hellospring/._service" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/test/java/hello/hellospring/repository/._MemoryMemberRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/test/java/hello/hellospring/service/._MemberServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/HelloSpringApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/MyBatisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/ServletInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/SpringConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/controller/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/controller/MemberController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/controller/MemberForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/domain/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/repository/JdbcTemplateMemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/repository/MemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/repository/MemoryMemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/repository/MyBatisMemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/service/MemberService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/resources/mapper/Mapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/resources/static/hello-static.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/resources/templates/hello-template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/resources/templates/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/resources/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/resources/templates/members/createMemberForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/resources/templates/members/memberList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/test/java/hello/hellospring/HelloSpringApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/test/java/hello/hellospring/repository/MemoryMemberRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/test/java/hello/hellospring/service/MemberServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testcodes/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testcodes/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="hello-spring" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.3.20/2da479884a36959754d13b868475e9a5d139c18d/spring-context-5.3.20-sources.jar!/org/springframework/ui/Model.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AZFiVBx2NI6a0oTH8WyOAIWfcB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/INFOPLUS/STUDY/hello-spring",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "bae5254db9cd57a928eaa5495bd2900a"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.HelloSpringApplication">
+    <configuration name="HelloSpringApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hello.hellospring.HelloSpringApplication" />
+      <module name="hello-spring.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.hellospring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemoryMemberRepositoryTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;hello.hellospring.repository.MemoryMemberRepositoryTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MemoryMemberRepositoryTest.findByName" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;hello.hellospring.repository.MemoryMemberRepositoryTest.findByName&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MemoryMemberRepositoryTest.save" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;hello.hellospring.repository.MemoryMemberRepositoryTest.save&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloSpringApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="hello-spring.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hello.hellospring.HelloSpringApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HelloSpringApplication" />
+      <item itemvalue="Gradle.MemoryMemberRepositoryTest" />
+      <item itemvalue="Gradle.MemoryMemberRepositoryTest.findByName" />
+      <item itemvalue="Gradle.MemoryMemberRepositoryTest.save" />
+      <item itemvalue="Spring Boot.HelloSpringApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.MemoryMemberRepositoryTest" />
+        <item itemvalue="Gradle.MemoryMemberRepositoryTest.save" />
+        <item itemvalue="Gradle.MemoryMemberRepositoryTest.findByName" />
+        <item itemvalue="Application.HelloSpringApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afac7c75-a64b-4019-b1d6-2333ea957127" name="Changes" comment="" />
+      <created>1655209330928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655209330928</updated>
+      <workItem from="1657624785261" duration="1359000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hello/hellospring/repository/MemoryMemberRepository.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/hello/hellospring/repository/MemoryMemberRepositoryTest.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hello/hellospring/repository/MemoryMemberRepository.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hello/hellospring/repository/MemoryMemberRepository.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hello/hellospring/controller/MemberController.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hello/hellospring/repository/MyBatisMemberRepository.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hello/hellospring/SpringConfig.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hello/hellospring/service/MemberService.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

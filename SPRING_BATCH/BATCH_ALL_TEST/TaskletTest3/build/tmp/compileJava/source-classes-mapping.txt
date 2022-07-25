@@ -1,0 +1,16 @@
+org/codelab/batch/job/tasklet/FlatfileItemJobConfig.java
+ org.codelab.batch.job.tasklet.FlatfileItemJobConfig
+org/codelab/batch/common/Const.java
+ org.codelab.batch.common.Const
+org/codelab/batch/dto/Customer.java
+ org.codelab.batch.dto.Customer
+org/codelab/batch/Application.java
+ org.codelab.batch.Application
+org/codelab/batch/dto/CustomerFieldSetMapper.java
+ org.codelab.batch.dto.CustomerFieldSetMapper
+org/codelab/batch/dto/CustomerFileLineTokenizer.java
+ org.codelab.batch.dto.CustomerFileLineTokenizer
+org/codelab/batch/dto/CustomerJson.java
+ org.codelab.batch.dto.CustomerJson
+org/codelab/batch/dto/Transaction.java
+ org.codelab.batch.dto.Transaction

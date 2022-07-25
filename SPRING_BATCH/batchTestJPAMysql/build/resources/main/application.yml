@@ -1,0 +1,29 @@
+spring:
+
+  batch:
+    job:
+      names: ${job.name:NONE}
+
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/mybatis_db?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Seoul
+    username: mybatis
+    password: 3800ksam!
+
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+    open-in-view: false
+    show-sql: true
+    hibernate:
+      format_sql: true
+      ddl-auto: create
+
+#  logging:
+#    level:
+#      root: info
+#      com.example.batchtestmysql : debug
+logging:
+  level:
+    root: info
+    com.example.batchTest: debug

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.hellospring.repository.MemoryMemberRepositoryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-06-14T13:01:50" hostname="DESKTOP-5AH8AUN" time="0.088">
+  <properties/>
+  <testcase name="findAll()" classname="hello.hellospring.repository.MemoryMemberRepositoryTest" time="0.076"/>
+  <testcase name="findByName()" classname="hello.hellospring.repository.MemoryMemberRepositoryTest" time="0.004"/>
+  <testcase name="save()" classname="hello.hellospring.repository.MemoryMemberRepositoryTest" time="0.006"/>
+  <system-out><![CDATA[test-name1
+test-name2
+afterEach...
+clearStore
+ f_mem1.name =  test-name1
+afterEach...
+clearStore
+result =  true
+member.getId() =  5
+member.getName() =  TEST_NAME
+member.=  hello.hellospring.domain.Member@39fcbef6
+afterEach...
+clearStore
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

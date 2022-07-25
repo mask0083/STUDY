@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "name": "현대자동차",
+    "address": "강서구",
+    "employeeList": []
+  },
+  {
+    "id": 0,
+    "name": "삼성전자",
+    "address": "강서",
+    "employeeList": []
+  },
+  {
+    "id": 0,
+    "name": "lg전자",
+    "address": "강서",
+    "employeeList": []
+  },
+  {
+    "id": 0,
+    "name": "하이닉스전자",
+    "address": "부산",
+    "employeeList": []
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "name": "김용현2",
+  "age": 35,
+  "job": "com",
+  "address": "서울 강남구",
+  "friendInfo": {
+    "friend_name": "이승원2",
+    "friend_age": 35,
+    "friend_job": "com"
+  }
+}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.allinonebatch.mapper.PersonMapperChunk1">
+
+
+	<select id="getPersonPaging" parameterType="hashmap" resultType="com.example.allinonebatch.dto.Person">
+	<![CDATA[
+		SELECT *
+		FROM
+			person
+		where personID >= ${Id}
+		ORDER BY personID asc
+		LIMIT #{_skiprows}, #{_pagesize}
+		]]>
+	</select>
+
+
+	<select id="getPersonCursor" parameterType="hashmap" resultType="com.example.allinonebatch.dto.Person">
+	<![CDATA[
+		SELECT *
+		FROM
+			person
+		where personID >= ${Id}
+		ORDER BY personID asc
+		]]>
+	</select>
+
+	<select id="getPersonCnt" resultType="java.lang.Integer">
+		SELECT count(*)
+		FROM
+			person
+	</select>
+
+
+	<insert id="insertPerson" parameterType="com.example.allinonebatch.dto.Person">
+		INSERT INTO person(personID, firstName,lastName) values( #{personId}, #{firstName}, #{lastName})
+	</insert>
+
+	<insert id="insertPerson1" parameterType="com.example.allinonebatch.dto.Person">
+		INSERT INTO person1(personID, firstName,lastName) values( #{personId}, #{firstName}, #{lastName})
+	</insert>
+
+	<delete id="deletePerson1All" >
+		DELETE
+		FROM
+			person1
+	</delete>
+
+
+</mapper>

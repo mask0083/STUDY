@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9a4ae73-70bb-4e39-b7cb-eb25d108723a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/sample-data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codelab/batch/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/common/Const.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codelab/batch/common/Const.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/controller/JobLauncherController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/dto/IpAddr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/dto/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/job/alphabet/AlphabetJobConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/job/alphabet/AlphabetReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/job/alphabet/AlphabetWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/job/alphabet/UpperCaseProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/job/file/FileJobConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/job/file/transformItemProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/job/ipfilter/IpClassfier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/job/ipfilter/IpFilterJobConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/job/ipfilter/IpFilterProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/job/ipfilter/IpFilterStepConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/job/parallelstep/NumberProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/job/parallelstep/NumberReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/job/parallelstep/ParallelStepJobConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/job/partitioner/PartitionerJobConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/job/partitioner/PartitionerProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/job/partitioner/PartitionerWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/job/partitioner/RangePartitioner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/job/simple/SimpleJobConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/job/tasklet/Reader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/job/tasklet/TaskletJobConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codelab/batch/job/tasklet/TaskletJobConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/job/tasklet/TaskletStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codelab/batch/job/tasklet/TaskletStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/job/tasklet/Writer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codelab/batch/mapper/PersonMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/PersonMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/sample-data.csv" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="codelabs-batch" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="codelabs-batch" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BhUiRqhhUNfA2FLts3z5cHOqK9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelOrder2": "2",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RequestMappingsPanelWidth2": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/INFOPLUS/STUDY/SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
+    "spring.configuration.checksum": "1c40f945cd9c80c82e9dbf40d646a66a"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.codelab.batch.scheduler" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="codelabs-batch.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.codelab.batch.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9a4ae73-70bb-4e39-b7cb-eb25d108723a" name="Changes" comment="" />
+      <created>1657357936837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657357936837</updated>
+      <workItem from="1657357938599" duration="1073000" />
+      <workItem from="1657405340124" duration="775000" />
+      <workItem from="1657406198047" duration="15912000" />
+      <workItem from="1657437516811" duration="1190000" />
+      <workItem from="1657539383801" duration="63000" />
+      <workItem from="1657543619765" duration="61000" />
+      <workItem from="1657544908230" duration="2106000" />
+      <workItem from="1657589243377" duration="2076000" />
+      <workItem from="1657592568030" duration="67000" />
+      <workItem from="1657939775305" duration="623000" />
+      <workItem from="1657941152538" duration="2239000" />
+      <workItem from="1657943447264" duration="11579000" />
+      <workItem from="1658026564002" duration="3951000" />
+      <workItem from="1658156557502" duration="597000" />
+      <workItem from="1658223164567" duration="672000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/codelab/batch/Application.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/codelab/batch/job/tasklet/TaskletJobConfig.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.batch/spring-batch-core/4.0.1.RELEASE/14fea6cea0bbaea9692de01833e9d1a9540acfaf/spring-batch-core-4.0.1.RELEASE-sources.jar!/org/springframework/batch/core/step/item/SimpleChunkProvider.java</url>
+          <line>156</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.batch/spring-batch-core/4.0.1.RELEASE/14fea6cea0bbaea9692de01833e9d1a9540acfaf/spring-batch-core-4.0.1.RELEASE-sources.jar!/org/springframework/batch/core/step/builder/SimpleStepBuilder.java</url>
+          <line>207</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.batch/spring-batch-core/4.0.1.RELEASE/14fea6cea0bbaea9692de01833e9d1a9540acfaf/spring-batch-core-4.0.1.RELEASE-sources.jar!/org/springframework/batch/core/step/item/SimpleChunkProvider.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.batch/spring-batch-core/4.0.1.RELEASE/14fea6cea0bbaea9692de01833e9d1a9540acfaf/spring-batch-core-4.0.1.RELEASE-sources.jar!/org/springframework/batch/core/step/builder/SimpleStepBuilder.java</url>
+          <line>130</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.batch/spring-batch-core/4.0.1.RELEASE/14fea6cea0bbaea9692de01833e9d1a9540acfaf/spring-batch-core-4.0.1.RELEASE-sources.jar!/org/springframework/batch/core/step/builder/SimpleStepBuilder.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/codelab/batch/job/tasklet/TaskletStep.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/codelab/batch/scheduler/JobScheduler.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/codelab/batch/scheduler/JobScheduler.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.String" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>

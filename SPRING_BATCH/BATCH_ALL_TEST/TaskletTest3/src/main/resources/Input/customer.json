@@ -1,0 +1,22 @@
+[
+  {
+    "firstName": "Laura",
+    "middleInitial": "O",
+    "lastName": "Minella",
+    "addressNumber": "2039",
+    "street": "Wall Street",
+    "city": "Omaha",
+    "state": "IL",
+    "zipCode": "35446"
+  },
+  {
+    "firstName": "Michael",
+    "middleInitial": "T",
+    "lastName": "Buffett",
+    "addressNumber": "8192",
+    "street": "Wall Street",
+    "city": "Omaha",
+    "state": "NE",
+    "zipCode": "25372"
+  }
+]

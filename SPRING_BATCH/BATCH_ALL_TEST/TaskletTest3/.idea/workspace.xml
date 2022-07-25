@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9a4ae73-70bb-4e39-b7cb-eb25d108723a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="codelabs-batch" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BhUiRqhhUNfA2FLts3z5cHOqK9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelOrder2&quot;: &quot;2&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth2&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/INFOPLUS/STUDY/SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.39770114&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;1c40f945cd9c80c82e9dbf40d646a66a&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\INFOPLUS\STUDY\BATCH_ALL_TEST\TaskletTest2-1\src\main\resources" />
+      <recent name="D:\INFOPLUS\STUDY\BATCH_ALL_TEST\TaskletTest2-1\src\main\java\org\codelab\batch\dto" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.codelab.batch.job.tasklet" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application (1)">
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Java/jdk-17.0.2_windows-x64_bin/jdk-17.0.2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="codelabs-batch.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.codelab.batch.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="codelabs-batch.main" />
+      <selectedOptions>
+        <option name="vmParameters" visible="false" />
+      </selectedOptions>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.codelab.batch.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Application (1)" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9a4ae73-70bb-4e39-b7cb-eb25d108723a" name="Changes" comment="" />
+      <created>1657357936837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657357936837</updated>
+      <workItem from="1657357938599" duration="1073000" />
+      <workItem from="1657405340124" duration="775000" />
+      <workItem from="1657406198047" duration="15912000" />
+      <workItem from="1657437516811" duration="1190000" />
+      <workItem from="1657539383801" duration="63000" />
+      <workItem from="1657543619765" duration="61000" />
+      <workItem from="1657543992600" duration="98000" />
+      <workItem from="1657544100032" duration="57000" />
+      <workItem from="1657544167499" duration="21000" />
+      <workItem from="1657544214847" duration="34000" />
+      <workItem from="1657544404286" duration="1078000" />
+      <workItem from="1657545500261" duration="456000" />
+      <workItem from="1657546069277" duration="3442000" />
+      <workItem from="1657549796995" duration="4000" />
+      <workItem from="1657551221718" duration="1086000" />
+      <workItem from="1657552517937" duration="3253000" />
+      <workItem from="1657588528016" duration="598000" />
+      <workItem from="1657589151987" duration="3222000" />
+      <workItem from="1657592683163" duration="4805000" />
+      <workItem from="1657605125024" duration="9314000" />
+      <workItem from="1657623714864" duration="823000" />
+      <workItem from="1657631656783" duration="2743000" />
+      <workItem from="1657635974816" duration="3720000" />
+      <workItem from="1657808209977" duration="4455000" />
+      <workItem from="1657866365698" duration="4191000" />
+      <workItem from="1658041398776" duration="1626000" />
+      <workItem from="1658580349343" duration="1258000" />
+      <workItem from="1658641522934" duration="5457000" />
+      <workItem from="1658748113728" duration="1822000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/codelab/batch/Application.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.batch/spring-batch-core/4.0.1.RELEASE/14fea6cea0bbaea9692de01833e9d1a9540acfaf/spring-batch-core-4.0.1.RELEASE-sources.jar!/org/springframework/batch/core/step/item/SimpleChunkProvider.java</url>
+          <line>156</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.batch/spring-batch-core/4.0.1.RELEASE/14fea6cea0bbaea9692de01833e9d1a9540acfaf/spring-batch-core-4.0.1.RELEASE-sources.jar!/org/springframework/batch/core/step/builder/SimpleStepBuilder.java</url>
+          <line>207</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.batch/spring-batch-core/4.0.1.RELEASE/14fea6cea0bbaea9692de01833e9d1a9540acfaf/spring-batch-core-4.0.1.RELEASE-sources.jar!/org/springframework/batch/core/step/item/SimpleChunkProvider.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.batch/spring-batch-core/4.0.1.RELEASE/14fea6cea0bbaea9692de01833e9d1a9540acfaf/spring-batch-core-4.0.1.RELEASE-sources.jar!/org/springframework/batch/core/step/builder/SimpleStepBuilder.java</url>
+          <line>130</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.batch/spring-batch-core/4.0.1.RELEASE/14fea6cea0bbaea9692de01833e9d1a9540acfaf/spring-batch-core-4.0.1.RELEASE-sources.jar!/org/springframework/batch/core/step/builder/SimpleStepBuilder.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/codelab/batch/Application.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/codelab/batch/job/tasklet/FlatfileItemJobConfig.java</url>
+          <line>283</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.3.21/f4e4ca8afbaff5e7130130ad7f78d45539117c5/spring-core-5.3.21-sources.jar!/org/springframework/core/io/ClassPathResource.java</url>
+          <line>211</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.batch/spring-batch-infrastructure/4.3.6/830cfc14975ebf4b200a686a69eb6207167e1ec7/spring-batch-infrastructure-4.3.6-sources.jar!/org/springframework/batch/item/support/AbstractFileItemWriter.java</url>
+          <line>364</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.3.21/f4e4ca8afbaff5e7130130ad7f78d45539117c5/spring-core-5.3.21-sources.jar!/org/springframework/core/io/AbstractFileResolvingResource.java</url>
+          <line>206</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.3.21/f4e4ca8afbaff5e7130130ad7f78d45539117c5/spring-core-5.3.21-sources.jar!/org/springframework/core/io/AbstractResource.java</url>
+          <line>137</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.3.21/f4e4ca8afbaff5e7130130ad7f78d45539117c5/spring-core-5.3.21-sources.jar!/org/springframework/core/io/FileSystemResource.java</url>
+          <line>244</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.3.21/f4e4ca8afbaff5e7130130ad7f78d45539117c5/spring-core-5.3.21-sources.jar!/org/springframework/core/io/PathResource.java</url>
+          <line>199</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.3.21/f4e4ca8afbaff5e7130130ad7f78d45539117c5/spring-core-5.3.21-sources.jar!/org/springframework/core/io/PathResource.java</url>
+          <line>204</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.3.21/f4e4ca8afbaff5e7130130ad7f78d45539117c5/spring-core-5.3.21-sources.jar!/org/springframework/core/io/ClassPathResource.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.batch/spring-batch-core/4.3.6/4f316540b47a8a09d45bce7c1ac46fce36add962/spring-batch-core-4.3.6-sources.jar!/org/springframework/batch/core/step/tasklet/TaskletStep.java</url>
+          <line>310</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.batch/spring-batch-infrastructure/4.3.6/830cfc14975ebf4b200a686a69eb6207167e1ec7/spring-batch-infrastructure-4.3.6-sources.jar!/org/springframework/batch/item/json/builder/JsonFileItemWriterBuilder.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.batch/spring-batch-infrastructure/4.3.6/830cfc14975ebf4b200a686a69eb6207167e1ec7/spring-batch-infrastructure-4.3.6-sources.jar!/org/springframework/batch/item/json/builder/JsonFileItemWriterBuilder.java</url>
+          <line>233</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.String" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
