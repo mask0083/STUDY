@@ -6,7 +6,7 @@ spring.batch.job.names: ${job.name:NONE}
 
 
 mybatis:
-  type-aliases-package: org.codelab.batch.dto
+  type-aliases-package: com.example.allinonebatch.dto
   mapper-locations: classpath:mapper/*.xml
   configuration:
     map-underscore-to-camel-case: true

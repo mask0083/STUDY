@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bda1894a-4a8e-4299-b21b-11e3e75acbe9" name="Changes" comment="데스크탑에서 주석추가 테스트">
-      <change beforePath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/7.4.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/7.4.1/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/7.4.1/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/7.4.1/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/7.4.1/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/7.4.1/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/7.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/7.4.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/7.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/7.4.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/src/main/java/com/example/allinonebatch/job/jobchunk1/Jobchunk1Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/src/main/java/com/example/allinonebatch/job/jobchunk1/Jobchunk1Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ArrayTest/ArrayCodes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testcodes/JsonTest/JsonWrite$FriendInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testcodes/JsonTest/JsonWrite$FriendInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testcodes/JsonTest/JsonWrite$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testcodes/JsonTest/JsonWrite$Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testcodes/JsonTest/JsonWrite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testcodes/JsonTest/JsonWrite.class" afterDir="false" />
-    </list>
+    <list default="true" id="bda1894a-4a8e-4299-b21b-11e3e75acbe9" name="Changes" comment="노트북 주석추가 테스트" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -198,7 +181,7 @@
       <workItem from="1658650937183" duration="2409000" />
       <workItem from="1659748742111" duration="198000" />
       <workItem from="1659748961021" duration="397000" />
-      <workItem from="1659749407860" duration="991000" />
+      <workItem from="1659749407860" duration="1218000" />
     </task>
     <task id="LOCAL-00001" summary="데스크탑에서 주석추가 테스트">
       <created>1657341834812</created>
@@ -214,7 +197,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657346976005</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="노트북 주석추가 테스트">
+      <created>1659846086031</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659846086031</updated>
+    </task>
+    <task id="LOCAL-00004" summary="노트북 주석추가 테스트">
+      <created>1659846092786</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659846092786</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,7 +253,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="데스크탑에서 주석추가 테스트" />
-    <option name="LAST_COMMIT_MESSAGE" value="데스크탑에서 주석추가 테스트" />
+    <MESSAGE value="노트북 주석추가 테스트" />
+    <option name="LAST_COMMIT_MESSAGE" value="노트북 주석추가 테스트" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
