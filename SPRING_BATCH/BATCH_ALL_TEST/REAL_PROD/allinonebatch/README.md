@@ -6,7 +6,24 @@ create table person (
 personID int(10) not null primary key,
 firstname varchar(20),
 lastname varchar(30)
+);
+
+create table person1 (
+personID int(10) not null primary key,
+firstname varchar(20),
+lastname varchar(30)
 )
+
+insert into person (personID, firstname, lastname) values (1, 'BUMSU','KIM' );
+insert into person (personID, firstname, lastname) values (2, 'HEEJAE','KANG' );
+insert into person (personID, firstname, lastname) values (3, 'JIYONG','GO' );
+insert into person (personID, firstname, lastname) values (4, 'JAHYUN','GU' );
+insert into person (personID, firstname, lastname) values (5, 'ADAMS','MAC' );
+insert into person (personID, firstname, lastname) values (6, 'DOHEE','NA' );
+insert into person (personID, firstname, lastname) values (7, 'MIHO','GOO' );
+insert into person (personID, firstname, lastname) values (8, 'HEEJUNG','MOO' );
+insert into person (personID, firstname, lastname) values (9, 'HYUNSOO','GANG' );
+insert into person (personID, firstname, lastname) values (10,'GUIVER','MAC' );
  
     
 ### 1. 실행방법

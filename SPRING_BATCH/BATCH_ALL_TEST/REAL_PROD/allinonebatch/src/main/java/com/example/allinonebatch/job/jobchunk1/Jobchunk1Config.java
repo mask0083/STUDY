@@ -55,6 +55,7 @@ import java.util.Map;
  *  문제점 :
  *     테스트 소스이므로 person 테이블을 읽어 person 테이블에 write하기 때문에 같은 트랜잭션으로 묶여 reader가 계속 호출됨.
  *     processor()에서 firstname을 가공하므로 insert시 firstname(20) 사이즈 초과로 오류남. 걍 테스트니 넘어갈 것
+ *     => person1 테이블 생성해서 write 할 것
  *
  *
  *

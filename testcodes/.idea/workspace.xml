@@ -5,467 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bda1894a-4a8e-4299-b21b-11e3e75acbe9" name="Changes" comment="데스크탑에서 주석추가 테스트">
-      <change afterPath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/src/main/java/com/example/allinonebatch/job/jobtasklet1/Jobtasklet1Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BATCH_ALL_TEST/TaskletTest2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/batchMybatisMysql.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__io_micrometer_micrometer_core_1_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__javax_batch_javax_batch_api_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__junit_junit_4_13_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_29.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_12_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__net_minidev_json_smart_2_4_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_assertj_assertj_core_3_22_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_mockito_mockito_core_4_5_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_5_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_mybatis_mybatis_3_5_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_36.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_springframework_batch_spring_batch_core_4_3_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_springframework_batch_spring_batch_infrastructure_4_3_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_springframework_batch_spring_batch_test_4_3_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_batch_2_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_3_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_springframework_spring_aop_5_3_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_springframework_spring_beans_5_3_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_springframework_spring_context_5_3_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_springframework_spring_core_5_3_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_springframework_spring_expression_5_3_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_springframework_spring_test_5_3_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_springframework_spring_tx_5_3_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/libraries/Maven__org_yaml_snakeyaml_1_30.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/mybatisMysql/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/mybatisMysql/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/mybatisMysql/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/mybatisMysql/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/mybatisMysql/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/mybatisMysql/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/mybatisMysql/src/main/java/com/example/mybatisMysql/MybatisMysqlApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/mybatisMysql/src/main/java/com/example/mybatisMysql/batch/TaskletJob.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/mybatisMysql/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchMybatisMysql/mybatisMysql/src/test/java/com/example/mybatisMysql/MybatisMysqlApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.gradle/7.4.1/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.gradle/7.4.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.gradle/7.4.1/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.gradle/7.4.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.gradle/7.4.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.gradle/7.4.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.gradle/7.4.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.gradle/7.4.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.gradle/7.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.gradle/7.4.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.gradle/file-system.probe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.idea/dataSources/60054a70-b99e-47b8-8681-758181aefd77.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.idea/dataSources/60054a70-b99e-47b8-8681-758181aefd77/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/HELP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/build/classes/java/main/com/example/batchTest/BatchTestApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/build/classes/java/main/com/example/batchTest/job/SimpleJobConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/build/classes/java/test/com/example/batchTest/BatchTestApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/build/resources/main/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/src/main/java/com/example/batchTest/BatchTestApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/src/main/java/com/example/batchTest/job/SimpleJobConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTest/src/test/java/com/example/batchTest/BatchTestApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestJPAMysql/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestJPAMysql/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestJPAMysql/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestJPAMysql/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestJPAMysql/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestJPAMysql/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestJPAMysql/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestJPAMysql/src/main/java/com/example/batchtestmysql/BatchTestMysqlApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestJPAMysql/src/main/java/com/example/batchtestmysql/batch/TaskletJob.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestJPAMysql/src/main/java/com/example/batchtestmysql/domain/Dept.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestJPAMysql/src/main/java/com/example/batchtestmysql/domain/DeptRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestJPAMysql/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestJPAMysql/src/test/java/com/example/batchtestmysql/BatchTestMysqlApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestJPAMysql/src/test/java/com/example/batchtestmysql/TestDeptRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestMysql/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestMysql/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestMysql/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestMysql/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestMysql/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestMysql/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestMysql/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestMysql/src/main/java/com/example/batchtestmysql/BatchTestMysqlApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestMysql/src/main/java/com/example/batchtestmysql/batch/TaskletJob.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestMysql/src/main/java/com/example/batchtestmysql/domain/Dept.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestMysql/src/main/java/com/example/batchtestmysql/domain/DeptRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestMysql/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestMysql/src/test/java/com/example/batchtestmysql/BatchTestMysqlApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batchTestMysql/src/test/java/com/example/batchtestmysql/TestDeptRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/demo-mybatis.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_29.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_12_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__net_minidev_json_smart_2_4_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_64.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_64.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_64.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_assertj_assertj_core_3_22_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_mockito_mockito_core_4_5_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_5_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_mybatis_mybatis_3_5_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_36.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_7_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_springframework_spring_aop_5_3_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_springframework_spring_beans_5_3_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_springframework_spring_context_5_3_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_springframework_spring_core_5_3_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_springframework_spring_expression_5_3_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_springframework_spring_test_5_3_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_springframework_spring_tx_5_3_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_springframework_spring_web_5_3_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/libraries/Maven__org_yaml_snakeyaml_1_30.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/JsonFile/jsonfile-mybatis" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/demo-mybatis/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/demo-mybatis/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/demo-mybatis/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/demo-mybatis/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/demo-mybatis/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/demo-mybatis/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/demo-mybatis/src/main/java/com/example/demo/Company.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/demo-mybatis/src/main/java/com/example/demo/CompanyController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/demo-mybatis/src/main/java/com/example/demo/CompanyMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/demo-mybatis/src/main/java/com/example/demo/CompanyService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/demo-mybatis/src/main/java/com/example/demo/DemoMybatisApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/demo-mybatis/src/main/java/com/example/demo/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/demo-mybatis/src/main/java/com/example/demo/EmployeeController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/demo-mybatis/src/main/java/com/example/demo/EmployeeMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/demo-mybatis/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo-mybatis/demo-mybatis/src/test/java/com/example/demo/DemoMybatisApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/controller/UserProfileController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/mapper/UserProfileMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/model/UserProfile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/.idea/hello-spring_lee.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/._hello-spring" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/._.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/._.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/._.idea" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/._HELP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/._build" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/._build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/._gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/._gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/._gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/._settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/._src" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/._7.4.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/._buildOutputCleanup" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/._file-system.probe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/._vcs-1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/._workspace-id.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/._workspace-id.txt.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/._checksums" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/._dependencies-accessors" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/._executionHistory" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/._fileChanges" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/._fileHashes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/._gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/._vcsMetadata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/checksums/._checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/checksums/._md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/checksums/._sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/dependencies-accessors/._dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/dependencies-accessors/._gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/executionHistory/._executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/executionHistory/._executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/fileChanges/._last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/fileHashes/._fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/fileHashes/._fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/7.4.1/fileHashes/._resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/buildOutputCleanup/._buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/buildOutputCleanup/._cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/buildOutputCleanup/._outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.gradle/vcs-1/._gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.idea/._.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.idea/._compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.idea/._gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.idea/._jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.idea/._misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/.idea/._workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/._bootWarMainClassName" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/._classes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/._generated" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/._libs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/._reports" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/._resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/._test-results" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/._tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/classes/._java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/classes/java/._test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/classes/java/test/._hello" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/classes/java/test/hello/._hellospring" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/classes/java/test/hello/hellospring/._HelloSpringApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/classes/java/test/hello/hellospring/._repository" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/classes/java/test/hello/hellospring/._service" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/classes/java/test/hello/hellospring/repository/._MemoryMemberRepositoryTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/classes/java/test/hello/hellospring/service/._MemberServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/generated/._sources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/generated/sources/._annotationProcessor" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/generated/sources/._headers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/generated/sources/annotationProcessor/._java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/generated/sources/annotationProcessor/java/._test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/generated/sources/headers/._java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/generated/sources/headers/java/._test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/libs/._hello-spring-0.0.1-SNAPSHOT-plain.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/libs/._hello-spring-0.0.1-SNAPSHOT.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/reports/._tests" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/reports/tests/._test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/reports/tests/test/._classes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/reports/tests/test/._css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/reports/tests/test/._index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/reports/tests/test/._js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/reports/tests/test/._packages" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/reports/tests/test/classes/._hello.hellospring.repository.MemoryMemberRepositoryTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/reports/tests/test/css/._base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/reports/tests/test/css/._style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/reports/tests/test/js/._report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/reports/tests/test/packages/._hello.hellospring.repository.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/test-results/._test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/test-results/test/._TEST-hello.hellospring.repository.MemoryMemberRepositoryTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/test-results/test/._binary" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/test-results/test/binary/._output.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/test-results/test/binary/._output.bin.idx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/test-results/test/binary/._results.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/tmp/._bootWar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/tmp/._compileJava" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/tmp/._compileTestJava" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/tmp/._test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/tmp/._war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/tmp/bootWar/._MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/tmp/compileTestJava/._previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/build/tmp/war/._MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/gradle/._wrapper" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/gradle/wrapper/._gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/gradle/wrapper/._gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/._main" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/._test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/._java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/._resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/._hello" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/._hellospring" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/._HelloSpringApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/._MyBatisConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/._ServletInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/._SpringConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/._controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/._domain" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/._repository" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/._service" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/controller/._HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/controller/._HomeController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/controller/._MemberController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/controller/._MemberForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/domain/._Member.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/repository/._JdbcTemplateMemberRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/repository/._MemberRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/repository/._MemoryMemberRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/repository/._MyBatisMemberRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/java/hello/hellospring/service/._MemberService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/._application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/._mapper" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/._static" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/._templates" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/mapper/._Mapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/static/._hello-static.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/static/._index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/templates/._hello-template.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/templates/._hello.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/templates/._home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/templates/._members" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/templates/members/._createMemberForm.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/main/resources/templates/members/._memberList.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/test/._java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/test/java/._hello" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/test/java/hello/._hellospring" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/test/java/hello/hellospring/._HelloSpringApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/test/java/hello/hellospring/._repository" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/test/java/hello/hellospring/._service" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/test/java/hello/hellospring/repository/._MemoryMemberRepositoryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/__MACOSX/hello-spring/src/test/java/hello/hellospring/service/._MemberServiceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/HelloSpringApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/MyBatisConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/ServletInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/SpringConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/controller/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/controller/HomeController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/controller/MemberController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/controller/MemberForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/domain/Member.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/repository/JdbcTemplateMemberRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/repository/MemberRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/repository/MemoryMemberRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/repository/MyBatisMemberRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/java/hello/hellospring/service/MemberService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/resources/mapper/Mapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/resources/static/hello-static.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/resources/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/resources/templates/hello-template.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/resources/templates/hello.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/resources/templates/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/resources/templates/members/createMemberForm.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/main/resources/templates/members/memberList.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/test/java/hello/hellospring/HelloSpringApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/test/java/hello/hellospring/repository/MemoryMemberRepositoryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring_lee/hello-spring/src/test/java/hello/hellospring/service/MemberServiceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testcodes/ExceptionTest/ExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/testcodes/ExceptionTest/ExceptionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testcodes/JsonTest/JsonWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/testcodes/JsonTest/JsonWrite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/7.4.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/7.4.1/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/7.4.1/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/7.4.1/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/7.4.1/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/7.4.1/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/7.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/7.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/7.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/7.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/src/main/java/com/example/allinonebatch/job/jobchunk1/Jobchunk1Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch/src/main/java/com/example/allinonebatch/job/jobchunk1/Jobchunk1Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArrayTest/ArrayCodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testcodes/JsonTest/JsonWrite$FriendInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testcodes/JsonTest/JsonWrite$FriendInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testcodes/JsonTest/JsonWrite$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testcodes/JsonTest/JsonWrite$Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testcodes/JsonTest/JsonWrite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testcodes/JsonTest/JsonWrite.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -506,29 +61,16 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/INFOPLUS/STUDY/testcodes&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/INFOPLUS/STUDY/SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatch&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;c0a83fb5ecc4bf08cd85052d0a4ac31e&quot;
   }
 }</component>
   <component name="RunManager" selected="Application.ExceptionTest">
-    <configuration name="ArrayCodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayTest.ArrayCodes" />
-      <module name="testcodes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArrayTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExceptionTest.ExceptionTest" />
       <module name="testcodes" />
@@ -581,6 +123,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.example.testcodes.ArrayTest.ArrayCodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.testcodes.ArrayTest.ArrayCodes" />
+      <module name="testcodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.testcodes.ArrayTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="testcodes" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -613,22 +168,13 @@
     </configuration>
     <list>
       <item itemvalue="Application.ExceptionTest" />
-      <item itemvalue="Application.ArrayCodes" />
       <item itemvalue="Application.JsonWrite" />
       <item itemvalue="Application.ObjectCodeTest" />
       <item itemvalue="Application.ObjectGenericTest" />
+      <item itemvalue="Application.com.example.testcodes.ArrayTest.ArrayCodes" />
       <item itemvalue="Maven.testcodes" />
       <item itemvalue="Spring Boot.TestcodesApplication" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.ExceptionTest" />
-        <item itemvalue="Application.JsonWrite" />
-        <item itemvalue="Application.ArrayCodes" />
-        <item itemvalue="Application.ObjectGenericTest" />
-        <item itemvalue="Application.ObjectCodeTest" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -650,6 +196,9 @@
       <workItem from="1657889308806" duration="3055000" />
       <workItem from="1658584866807" duration="644000" />
       <workItem from="1658650937183" duration="2409000" />
+      <workItem from="1659748742111" duration="198000" />
+      <workItem from="1659748961021" duration="397000" />
+      <workItem from="1659749407860" duration="991000" />
     </task>
     <task id="LOCAL-00001" summary="데스크탑에서 주석추가 테스트">
       <created>1657341834812</created>
