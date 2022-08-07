@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9593611-a821-460d-8371-e1e38b267e43" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.1/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.1/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.1/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.1/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.1/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk1/Jobchunk1Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk1/Jobchunk1Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../testcodes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../testcodes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../testcodes/target/classes/ArrayTest/ArrayCodes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../testcodes/target/classes/com/example/testcodes/JsonTest/JsonWrite$FriendInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../testcodes/target/classes/com/example/testcodes/JsonTest/JsonWrite$FriendInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../testcodes/target/classes/com/example/testcodes/JsonTest/JsonWrite$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../testcodes/target/classes/com/example/testcodes/JsonTest/JsonWrite$Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../testcodes/target/classes/com/example/testcodes/JsonTest/JsonWrite.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../testcodes/target/classes/com/example/testcodes/JsonTest/JsonWrite.class" afterDir="false" />
-    </list>
+    <list default="true" id="b9593611-a821-460d-8371-e1e38b267e43" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +109,7 @@
       <workItem from="1658752246139" duration="5302000" />
       <workItem from="1658760605185" duration="8000" />
       <workItem from="1659748977216" duration="379000" />
-      <workItem from="1659749809756" duration="1655000" />
+      <workItem from="1659749809756" duration="1656000" />
     </task>
     <servers />
   </component>
