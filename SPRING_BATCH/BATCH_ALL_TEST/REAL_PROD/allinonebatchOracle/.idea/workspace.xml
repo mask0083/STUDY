@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9593611-a821-460d-8371-e1e38b267e43" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="allinonebatch" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2C3spKTN4rSVXcOukZSfnKmDghV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/INFOPLUS/STUDY/SPRING_BATCH/BATCH_ALL_TEST/REAL_PROD/allinonebatchOracle",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "spring.configuration.checksum": "11c60ef1775b8706e86912c4e9e49d12"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\INFOPLUS\STUDY\SPRING_BATCH\BATCH_ALL_TEST\REAL_PROD\allinonebatch\src\main\resources\mapper" />
+      <recent name="D:\INFOPLUS\STUDY\SPRING_BATCH\BATCH_ALL_TEST\REAL_PROD\allinonebatch" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.allinonebatch.job.jobchunk2" />
+      <recent name="com.example.allinonebatch.mapper" />
+      <recent name="com.example.allinonebatch.job.jobtasklet_1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AllinonebatchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="allinonebatch.main" />
+      <option name="PROGRAM_PARAMETERS" value="--job.name=jobtasklet1 ver=1 date=20220723" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.allinonebatch.AllinonebatchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9593611-a821-460d-8371-e1e38b267e43" name="Changes" comment="" />
+      <created>1658042783561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658042783561</updated>
+      <workItem from="1658042785520" duration="2827000" />
+      <workItem from="1658226462612" duration="19459000" />
+      <workItem from="1658317656301" duration="12619000" />
+      <workItem from="1658556640405" duration="34627000" />
+      <workItem from="1658641555385" duration="17534000" />
+      <workItem from="1658749411530" duration="2798000" />
+      <workItem from="1658752246139" duration="5302000" />
+      <workItem from="1658760605185" duration="8000" />
+      <workItem from="1659748977216" duration="379000" />
+      <workItem from="1659749809756" duration="1656000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobtasklet1/Jobtasklet1Config.java</url>
+          <line>165</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobtasklet1/Jobtasklet1Config.java</url>
+          <line>200</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobtasklet1/Jobtasklet1Config.java</url>
+          <line>183</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobtasklet1/Jobtasklet1Config.java</url>
+          <line>135</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobtasklet1/Jobtasklet1Config.java</url>
+          <line>224</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobtasklet1/Jobtasklet1Config.java</url>
+          <line>239</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk1/Jobchunk1Config.java</url>
+          <line>134</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk1/Jobchunk1Config.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk1/Jobchunk1Config.java</url>
+          <line>381</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk1/Jobchunk1Config.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis-spring/2.0.7/e88bbf172f759b8546192cb5f489b83a6bc556ff/mybatis-spring-2.0.7-sources.jar!/org/mybatis/spring/batch/builder/MyBatisBatchItemWriterBuilder.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis-spring/2.0.7/e88bbf172f759b8546192cb5f489b83a6bc556ff/mybatis-spring-2.0.7-sources.jar!/org/mybatis/spring/batch/builder/MyBatisPagingItemReaderBuilder.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/mybatis/MybatisPagingItemReaderJobConfiguration.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/mybatis/MybatisPagingItemReaderJobConfiguration.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/mybatis/MybatisPagingItemReaderJobConfiguration.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/mybatis/MybatisPagingItemReaderJobConfiguration.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/mybatis/MybatisPagingItemReaderJobConfiguration.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/mybatis/MybatisPagingItemReaderJobConfiguration.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk1/Jobchunk1Config.java</url>
+          <line>326</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk1/Jobchunk1Config.java</url>
+          <line>165</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobtasklet1/Jobtasklet1Config.java</url>
+          <line>162</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobtasklet1/Jobtasklet1Config.java</url>
+          <line>177</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobtasklet1/Jobtasklet1Config.java</url>
+          <line>181</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobtasklet1/Jobtasklet1Config.java</url>
+          <line>190</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobtasklet1/Jobtasklet1Config.java</url>
+          <line>197</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk1/Jobchunk1Config.java</url>
+          <line>252</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk1/Jobchunk1Config.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk1/Jobchunk1Config.java</url>
+          <line>337</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk1/Jobchunk1Config.java</url>
+          <line>320</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk1/Jobchunk1Config.java</url>
+          <line>196</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk1/Jobchunk1Config.java</url>
+          <line>368</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk1/Jobchunk1Config.java</url>
+          <line>365</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.batch/spring-batch-infrastructure/4.3.6/830cfc14975ebf4b200a686a69eb6207167e1ec7/spring-batch-infrastructure-4.3.6-sources.jar!/org/springframework/batch/item/file/builder/FlatFileItemWriterBuilder.java</url>
+          <line>493</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.batch/spring-batch-infrastructure/4.3.6/830cfc14975ebf4b200a686a69eb6207167e1ec7/spring-batch-infrastructure-4.3.6-sources.jar!/org/springframework/batch/item/file/builder/FlatFileItemWriterBuilder.java</url>
+          <line>505</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.batch/spring-batch-infrastructure/4.3.6/830cfc14975ebf4b200a686a69eb6207167e1ec7/spring-batch-infrastructure-4.3.6-sources.jar!/org/springframework/batch/item/file/builder/FlatFileItemWriterBuilder.java</url>
+          <line>531</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk2/jobchunk2Config.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobtasklet1/Jobtasklet1Config.java</url>
+          <line>228</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobtasklet1/Jobtasklet1Config.java</url>
+          <line>265</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk2/jobchunk2Config.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk2/jobchunk2Config.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk2/jobchunk2Config.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk2/jobchunk2Config.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk2/jobchunk2Config.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk2/jobchunk2Config.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk2/jobchunk2Config.java</url>
+          <line>154</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk1/Jobchunk1Config.java</url>
+          <line>291</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/allinonebatch/job/jobchunk2/jobchunk2Config.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <breakpoint type="java-exception">
+          <properties class="org.xml.sax.SAXParseException" package="org.xml.sax" />
+          <option name="timeStamp" value="18" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

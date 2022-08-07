@@ -1,0 +1,51 @@
+spring:
+  profiles:
+    active: notebook
+
+spring.batch.job.names: ${job.name:NONE}
+
+
+mybatis:
+  type-aliases-package: org.codelab.batch.dto
+  mapper-locations: classpath:mapper/*.xml
+  configuration:
+    map-underscore-to-camel-case: true
+#    default-fetch-size: 100
+    default-statement-timeout: 30
+    log-impl: org.apache.ibatis.logging.slf4j.Slf4jImpl
+
+    # Cannot change the ExecutorType when there is an existing transaction 오류때문에
+    # executor-type=BATCH, default-executor-type=BATCH 설정을 했으나 동작 안하는 듯함.
+    # sqlSessionFactory.openSession().selectOne() 으로 해결
+    # for SqlSessionTemplate (for execution via mapper method)
+#    mybatis:
+#      executor-type=BATCH:
+#
+#    # for SqlSessionFactory (for execution without mapper method)
+#  mybatis:
+#    configuration:
+#      default-executor-type=BATCH:
+---
+spring:
+  profiles: notebook
+  datasource:
+    database: mysql
+    url: jdbc:mysql://localhost:3306/mybatis_db?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Seoul&useSSL=false
+    username: mybatis
+    password: 3800ksam!
+    driver-class-name: com.mysql.cj.jdbc.Driver
+logging:
+  level:
+    org.codelab.batch: INFO
+---
+spring:
+  profiles: docker
+  datasource:
+    database: mysql
+    url: jdbc:mysql://localhost:3306/mybatis_db?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Seoul&useSSL=false
+    username: mybatis
+    password: 3800ksam!
+    driver-class-name: com.mysql.cj.jdbc.Driver
+logging:
+  level:
+    org.codelab.batch: INFO

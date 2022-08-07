@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.allinonebatch.mapper.PersonMapperDirect">
+	<select id="getPerson" parameterType="com.example.allinonebatch.dto.Person" resultType="com.example.allinonebatch.dto.Person">
+		SELECT * 
+		FROM 
+			person
+		WHERE personID > #{personId}
+		order by personID asc
+	</select>
+
+	<select id="getPersonbyId" parameterType="java.lang.Integer" resultType="com.example.allinonebatch.dto.Person">
+		SELECT *
+		FROM
+			person
+		WHERE personID > #{Id}
+		order by personID asc
+	</select>
+
+	<select id="getPersonbyIdOne" parameterType="java.lang.Integer" resultType="com.example.allinonebatch.dto.Person">
+		SELECT *
+		FROM
+			person
+		WHERE personID = #{Id}
+	</select>
+
+
+	<select id="getPersonCnt" resultType="java.lang.Integer">
+		SELECT count(*)
+		FROM
+			person
+	</select>
+
+
+	<select id="getPersonbyHash" parameterType="hashmap" resultType="com.example.allinonebatch.dto.Person">
+		<![CDATA[
+		SELECT *
+		FROM
+			person
+		WHERE personID > #{Id}
+		and lastname like CONCAT('%',#{lastname},'%')
+		order by personID asc
+	]]>
+	</select>
+
+
+	<select id="getPersonbyParam"  resultType="com.example.allinonebatch.dto.Person">
+		<![CDATA[
+		SELECT *
+		FROM
+			person
+		WHERE personID > #{Id}
+		  and lastname like CONCAT('%',#{lastname},'%')
+		order by personID asc
+		]]>
+	</select>
+
+
+
+<!--	PeronMapper.java에 interface로 등록되지 않은 sql을 여기 넣으면 오류 발생-->
+<!--	Could not resolve type alias 'com.example.allinonebatch.Person'.  Cause: java.lang.ClassNotFoundException: Cannot find class: com.example.allinonebatch.Person-->
+
+
+
+	<insert id="insertPerson" parameterType="com.example.allinonebatch.dto.Person">
+		INSERT INTO person(personID, firstName,lastName) values( #{personId}, #{firstName}, #{lastName})
+	</insert>
+</mapper>
